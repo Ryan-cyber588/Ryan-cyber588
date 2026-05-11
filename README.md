@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Analista de Tesouraria · Automação de Processos · BI & Dados</b><br/>
-  Técnico em Mecânica Industrial pelo IFSP · Graduando em Administração
+  Técnico em Mecânica Industrial pelo IFSP · Graduado em Ciências Econômicas · Pós-graduando em Finanças & Controladoria
 </p>
 
 <p align="center">
